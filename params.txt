@@ -1,7 +1,7 @@
 yuri:25%
-natsuki:5%
+natsuki:25%
 monika:12.5%
 monika
-69,21
+45,45
 aya
-10
+1
